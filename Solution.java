@@ -2,7 +2,6 @@
 public class Robot {
 
     private static class DIRECTIONS {
-
         static final String EAST = "East";
         static final String WEST = "West";
         static final String SOUTH = "South";
